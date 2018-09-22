@@ -223,7 +223,7 @@
   width:103px;
   height:34px;
   font-size:9px;
-  color:#7EAFAF;
+  color:rgba(51, 204, 204, 0.956862745098039);
 }
 #u8_text {
   border-width:0px;
@@ -1165,7 +1165,6 @@
   top:386px;
   width:14px;
   height:10px;
-  color:#2F9797;
 }
 #u46_text {
   border-width:0px;
@@ -1192,7 +1191,7 @@
   width:54px;
   height:10px;
   font-size:8px;
-  color:#2F9797;
+  color:rgba(51, 204, 204, 0.956862745098039);
 }
 #u47_text {
   border-width:0px;
@@ -1217,7 +1216,6 @@
   top:430px;
   width:14px;
   height:10px;
-  color:#2F9797;
 }
 #u48_text {
   border-width:0px;
@@ -1244,7 +1242,7 @@
   width:54px;
   height:10px;
   font-size:8px;
-  color:#2F9797;
+  color:rgba(51, 204, 204, 0.956862745098039);
 }
 #u49_text {
   border-width:0px;
