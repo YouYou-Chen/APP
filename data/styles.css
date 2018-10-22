@@ -7,10 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
-}
-._图片 {
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -59,86 +55,33 @@
 ._文本段落 {
   text-align:left;
 }
-.line {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
 ._流程形状 {
 }
-.marker {
-  color:#FFFFFF;
-}
-.icon {
-}
-.flow_shape {
-}
-.paragraph {
-  text-align:left;
-}
-.heading_1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:32px;
-  text-align:left;
-}
-.heading_2 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:24px;
-  text-align:left;
-}
-.horizontal_line {
-}
-.shape {
-}
-.box_2 {
-}
-.image {
-  color:#000000;
-}
-.placeholder {
-}
-.vertical_line {
-}
-.iconfont {
-  font-family:'iconfont Regular', 'iconfont';
-  font-weight:400;
-  font-style:normal;
-  font-size:18px;
-  color:#666666;
-}
-._文本段落1 {
-  text-align:left;
-}
 ._形状 {
-}
-._图片1 {
-  color:#000000;
-}
-._水平线 {
 }
 ._形状1 {
 }
 ._形状2 {
 }
+.box_1 {
+}
 .ellipse {
 }
-.image1 {
+.image {
 }
-.button {
+.placeholder {
+}
+._图片_ {
+}
+._水平线 {
+}
+.line {
+}
+.arrow {
+}
+.icon {
 }
 ._形状3 {
 }
-.primary_button {
-  color:#FFFFFF;
-}
-.sticky_1 {
-  text-align:left;
-}
-._图片2 {
-  color:#000000;
+.flow_shape {
 }
